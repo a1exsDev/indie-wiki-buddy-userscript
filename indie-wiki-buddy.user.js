@@ -4,7 +4,8 @@
 // @version      1.0
 // @description  An alternative of the Indie Wiki Buddy extension, for people who can't install it. Supported wikis on Github repo
 // @author       a1exsDev
-// @require      ./fandoms.user.js
+// @require      https://github.com/a1exsDev/indie-wiki-buddy-userscript/raw/main/userscripts/search-engines.user.js
+// @require      https://github.com/a1exsDev/indie-wiki-buddy-userscript/raw/main/userscripts/search-engines.user.js
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/a1exsDev/indie-wiki-buddy-userscript/main/indie-wiki-buddy.js
 // @downloadURL  https://raw.githubusercontent.com/a1exsDev/indie-wiki-buddy-userscript/main/indie-wiki-buddy.js
